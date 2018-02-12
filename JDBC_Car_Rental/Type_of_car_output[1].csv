@@ -1,0 +1,5 @@
+car_id,Name,carType,fuelType,carRegistrationYear,rating,
+1,Volkswagen Polo,Economy,Petrol,2005,4.5,
+2,Nissan Micra,Economy,Petrol,2006,4.6,
+7,Renault Clio,Economy,Petrol,2017,4,
+11,Ford Fiesta,Economy,Petrol,2007,4.1,
